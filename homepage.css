@@ -1,0 +1,37 @@
+html{font-size:150%}
+body {
+  padding-left: 11em;
+  font-family:Comic Sans MS, Comic Sans, cursive;
+  
+  color: #fff000;
+  background-color:  #ff0000 }
+ul.navbar {
+padding-left: 4em
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  position: absolute; 
+  top: 2em;
+  left: 1em;
+  width: 9em }
+h1 {
+padding-left: 6em;
+  font-family: Comic Sans MS, Comic Sans, cursive}
+ul.navbar li {
+  background:  #fefc66;
+  margin: 0.5em 0;
+  padding: 0.3em;
+  border-right: 1em solid #fff000 }
+ul.navbar a {
+  text-decoration: none }
+a:link {
+  color: blue }
+a:visited {
+  color: red }
+a:hover {
+  color: gray }
+address {
+  margin-top: 1em;
+  padding-top: 1em;
+border-top: thin dotted;
+color: #4b1388   }
